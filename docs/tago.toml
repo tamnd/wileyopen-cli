@@ -1,0 +1,10 @@
+title       = "wileyopen"
+baseURL     = "https://wileyopen-cli.tamnd.com/"
+description = "A command line for wileyopen."
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/wileyopen-cli"
